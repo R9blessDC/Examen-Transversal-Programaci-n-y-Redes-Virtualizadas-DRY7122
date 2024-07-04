@@ -1,5 +1,1 @@
-integrantes = [
-  Gonzalo Robles
-]
-
-print(integrantes)
+print("Integrantes = - Gonzalo Robles")
